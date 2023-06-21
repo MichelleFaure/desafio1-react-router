@@ -1,0 +1,30 @@
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(228, 57, 57);
+    height: 10vh;
+}
+
+.linkContainer{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white ;
+    margin-left: 0.5rem;
+}
+
+.logo{
+    color: white;
+}
+
+.logo span{
+    margin-right: 0.5rem;
+}
